@@ -14,7 +14,7 @@ This project allows users to search for images using the Google Custom Search JS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/google-image-search.git
+   git clone https://github.com/avnishpatel143/google-image-search.git
 
 
 cd google-image-search
